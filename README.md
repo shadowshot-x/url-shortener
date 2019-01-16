@@ -1,5 +1,10 @@
-Welcome to Glitch
+Url-Shortener Microservice
 =================
+
+Enter the url using '/new/https://{{newurl}}'
+The response will provide a json object with new url which is stored in database in mlab!
+
+Extra Credits : Free Code Camp  
 
 Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
 
