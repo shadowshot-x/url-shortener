@@ -1,5 +1,6 @@
 Url-Shortener Microservice
 =================
+A URL shortener is a simple tool that takes a long URL and turns it into whatever URL you would like it to be.
 
 Enter the url using '/new/https://{{newurl}}'
 The response will provide a json object with new url which is stored in database in mlab!
